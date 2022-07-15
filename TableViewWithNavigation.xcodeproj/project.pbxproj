@@ -13,6 +13,7 @@
 		442D9D2428816FDA00A5869A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 442D9D2228816FDA00A5869A /* Main.storyboard */; };
 		442D9D2628816FDB00A5869A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 442D9D2528816FDB00A5869A /* Assets.xcassets */; };
 		442D9D2928816FDB00A5869A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 442D9D2728816FDB00A5869A /* LaunchScreen.storyboard */; };
+		442D9D31288173E400A5869A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D9D30288173E400A5869A /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		442D9D2528816FDB00A5869A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		442D9D2828816FDB00A5869A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		442D9D2A28816FDB00A5869A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		442D9D30288173E400A5869A /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				442D9D2528816FDB00A5869A /* Assets.xcassets */,
 				442D9D2728816FDB00A5869A /* LaunchScreen.storyboard */,
 				442D9D2A28816FDB00A5869A /* Info.plist */,
+				442D9D30288173E400A5869A /* DetailViewController.swift */,
 			);
 			path = TableViewWithNavigation;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				442D9D2128816FDA00A5869A /* ViewController.swift in Sources */,
 				442D9D1D28816FDA00A5869A /* AppDelegate.swift in Sources */,
 				442D9D1F28816FDA00A5869A /* SceneDelegate.swift in Sources */,
+				442D9D31288173E400A5869A /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
